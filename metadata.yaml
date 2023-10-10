@@ -1,0 +1,29 @@
+_repo: Mista-ihmiset-elavat-b-ynna-muita-kertomuksia_71817
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kalima, Toimi
+    gutenberg_agent_id: '56411'
+    url: http://www.gutenberg.org/2009/agents/56411
+creator:
+  author:
+    agent_name: Leo Tolstoy jr.
+    gutenberg_agent_id: '56410'
+    url: http://www.gutenberg.org/2009/agents/56410
+description: ''
+gutenberg_issued: '2023-10-06'
+identifiers:
+  gutenberg: '71817'
+language: fi
+pgterms:marc905: 20230912065629tolstoyjr
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mistä ihmiset elävät : $b ynnä muita kertomuksia'
+url: http://www.gutenberg.org/ebooks/71817
